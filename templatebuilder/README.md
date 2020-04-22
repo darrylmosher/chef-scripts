@@ -36,8 +36,8 @@ text 3
     source 'template.erb'
     mode 0644
     variables(
-      :attribute1 => '',
- 	  :attribute2 => '',
- 	  :attribute3 => '',
-)
+        :attribute1 => '',
+        :attribute2 => '',
+        :attribute3 => '',
+    )   
 ```
